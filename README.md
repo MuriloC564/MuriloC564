@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&text=MURILO&fontSize=64&fontColor=e8e8e8&fontAlign=50&fontAlignY=45&desc=queimar%20até%20virar%20cinza&descSize=18&descColor=8a8a8a&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&text=MURILO&fontSize=64&fontColor=e8e8e8&fontAlign=50&fontAlignY=50" width="100%" />
+
+<p align="center"><i>I've burned my fire until there's nothing left.<br>All that's left is pure white ash.</i></p>
 
 ## 🥊 Round 1 — Quem sou eu
 
@@ -11,8 +13,6 @@ Servidores, redes e software de dia; universos de ficção à noite.
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=b3001b)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=e8e8e8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=b3001b)
-
-## 📊 Placar
 
 ## 📊 Placar
 
@@ -29,4 +29,4 @@ Servidores, redes e software de dia; universos de ficção à noite.
 - **Round 3** — nome do projeto: descrição curta
 
 ---
-<sub>levanta, sacode a poeira e volta pro ringue.</sub>
+<p align="center"><sub>🥊 levanta, sacode a poeira e volta pro ringue.</sub></p>
