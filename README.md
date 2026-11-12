@@ -14,10 +14,14 @@ Servidores, redes e software de dia; universos de ficção à noite.
 
 ## 📊 Placar
 
+## 📊 Placar
+
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MuriloC564&show_icons=true&bg_color=0d0d0d&title_color=b3001b&text_color=e8e8e8&icon_color=b3001b&border_color=8a8a8a" />
   <img height="160" src="https://streak-stats.demolab.com?user=MuriloC564&background=0d0d0d&ring=b3001b&fire=b3001b&currStreakNum=e8e8e8&sideNums=e8e8e8&currStreakLabel=e8e8e8&sideLabels=e8e8e8&dates=8a8a8a&stroke=8a8a8a&border=8a8a8a" />
 </p>
+
+![Seguidores](https://img.shields.io/github/followers/MuriloC564?style=for-the-badge&labelColor=0d0d0d&color=b3001b)
+![Repositórios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MuriloC564&query=public_repos&label=repos&style=for-the-badge&labelColor=0d0d0d&color=8a8a8a)
 
 ## 🔔 Rounds (projetos)
 
